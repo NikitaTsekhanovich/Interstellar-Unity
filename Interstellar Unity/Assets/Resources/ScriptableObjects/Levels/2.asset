@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcf5bb0d76b29e4e8f0675203b38890, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  _levelIndex: 2
+  _nodesPositions:
+  - {fileID: 7626633310217955114, guid: fbb4c70451196ab4c922773363c42900, type: 3}
+  - {fileID: 9007044921370675316, guid: a4a9cd8ff3dcddb458a6a7ed7193aa18, type: 3}
+  - {fileID: 6396728589142676341, guid: d04e1b5996faec54abe6996120a971c9, type: 3}
+  - {fileID: 1415633778309788973, guid: c72766219a119f745a1e868b546571d8, type: 3}
+  - {fileID: 5945119417232900946, guid: bdd7f0fa1b1a9e14584fdf81bf011b1d, type: 3}
+  _nodeDependencies:
+  - _indexFirstNode: 0
+    _indexSecondNode: 3
+  - _indexFirstNode: 1
+    _indexSecondNode: 2
+  - _indexFirstNode: 1
+    _indexSecondNode: 4
+  - _indexFirstNode: 3
+    _indexSecondNode: 4

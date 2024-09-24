@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcf5bb0d76b29e4e8f0675203b38890, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  _levelIndex: 4
+  _nodesPositions:
+  - {fileID: 129150074192240596, guid: 07fd81f5478f4d94c841d03f893ae08b, type: 3}
+  - {fileID: 990657745712614266, guid: cb83d39f710c2ed42a6b74b1e121b433, type: 3}
+  - {fileID: 7864691748788839521, guid: 7d83ac3f71336a140b423d344d8538bd, type: 3}
+  - {fileID: 7537882648213855057, guid: d5d2ed0f4d9e2664d8cbb6f37674d196, type: 3}
+  - {fileID: 7690342599370591136, guid: 34036c5f6c2d16548814e9469ed6f0b5, type: 3}
+  _nodeDependencies:
+  - _indexFirstNode: 0
+    _indexSecondNode: 1
+  - _indexFirstNode: 0
+    _indexSecondNode: 2
+  - _indexFirstNode: 2
+    _indexSecondNode: 3
+  - _indexFirstNode: 3
+    _indexSecondNode: 4
+  - _indexFirstNode: 4
+    _indexSecondNode: 1

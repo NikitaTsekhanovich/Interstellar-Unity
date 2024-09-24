@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcf5bb0d76b29e4e8f0675203b38890, type: 3}
+  m_Name: 24
+  m_EditorClassIdentifier: 
+  _levelIndex: 24
+  _nodesPositions:
+  - {fileID: 4920067296756511694, guid: 2d5fd431454901445a9a087d4c86249d, type: 3}
+  - {fileID: 5966336432041200417, guid: d93249e46fd82b440afd5e1a374a1680, type: 3}
+  - {fileID: 1347098272474232115, guid: f4bb5ac03f9becd48b0189ae86f72443, type: 3}
+  _nodeDependencies:
+  - _indexFirstNode: 0
+    _indexSecondNode: 1
+  - _indexFirstNode: 0
+    _indexSecondNode: 2
+  - _indexFirstNode: 0
+    _indexSecondNode: 4
+  - _indexFirstNode: 1
+    _indexSecondNode: 2
+  - _indexFirstNode: 1
+    _indexSecondNode: 3
+  - _indexFirstNode: 1
+    _indexSecondNode: 4
+  - _indexFirstNode: 3
+    _indexSecondNode: 4
+  - _indexFirstNode: 2
+    _indexSecondNode: 3
+  - _indexFirstNode: 2
+    _indexSecondNode: 4
+  _lockNodesPositions:
+  - {fileID: 1474527183013377170, guid: b76fedbf0d7f18b4ca18cda45e4a317e, type: 3}
+  - {fileID: 893475115486450649, guid: 22ed084f5c03d3f44bfa861fd4857a3c, type: 3}
