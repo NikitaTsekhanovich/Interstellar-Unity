@@ -5,9 +5,6 @@
 
 Для тестирования магазина. Если 10 раз нажать на лого в главном меню, то прибавится 200 монет.
 
-# Особенности
-Все уровни хранятся в scriptable object, за счет чего в игре всего две сцены, а для создания новых уровней не нужно лезть в код.
-
 # Скриншоты 
 ![Image Sequence_003_0000](https://github.com/user-attachments/assets/dd512d0f-0c8b-41a1-8fe5-9bb251ee5126)
 ![Image Sequence_002_0000](https://github.com/user-attachments/assets/19f9ccf0-806d-4c97-b099-55a805ac3adc)
